@@ -1,11 +1,81 @@
     
       COBOL 教程
+                   COBOL概述
+                            https://www.cnblogs.com/shirleybsj/p/5390919.html
+                            https://wenku.baidu.com/view/cb9b31c33d1ec5da50e2524de518964bce84d277.html
+                   
+                   COBOL 简介
+                            https://www.open-open.com/pdf/653e7100854d4d5cbd10e5bd2eaa6b1c.html
+                            https://en.wikipedia.org/wiki/COBOL
+                            https://www.ibm.com/support/knowledgecenter/
+                       
+                   COBOL Programming Standards
+                            https://www.tonymarston.net/cobol/cobolstandards.html
+                   
+                   Coding Standards for COBOL Programs
+  https://techdocs.broadcom.com/us/en/ca-enterprise-software/it-operations-management/ca-2e/8-7/toolkit/coding-standards-for-database-files/coding-standards-for-cobol-programs.html
+                            
+                   cobol online compiler
+                            https://www.tutorialspoint.com/compile_cobol_online.php
+                            https://www.jdoodle.com/execute-cobol-online/
+                            https://paiza.io/en/languages/cobol
+      
+                    https://www.w3cschool.cn/cobol/cobol_program_structure.html
+                    https://www.tutorialspoint.com/cobol/index.htm
+                    https://medium.com/the-technical-archaeologist/hello-world-on-z-os-a0ef31c1e87f
+                    https://vasilev.link/blog/posts/install-zos-on-your-own-computer-booting-zos-emulation-files-with-hercules
+                    http://www16.plala.or.jp/hiyokogumi/top.html
+                    
+                    https://www.cobol.co.jp/
+                    
+                    汇编，编译，链接编辑和执行用户编写的程序
+                            http://www.jaymoseley.com/hercules/compiling/how_to.htm
+                    
+                    IBM mainframe 模拟器Hercules 的安装手顺
+                            http://www.blogjava.net/jjshcc/archive/2011/10/04/350746.html
+                            
+                    https://www.oschina.net/p/cobol?hmsr=aladdin1e1
+                    
+                    
+      
+                   有关编写和执行JCL和COBOL程序的各种命令的完整指南，请参见：
+                        http://www.jaymoseley.com/hercules/
       
                     https://www.w3cschool.cn/cobol/
                     
                     http://www.hercules-390.eu/
                     
-          
+                    https://x3270.miraheze.org/wiki/Main_Page
+                    
+                    http://x3270.bgp.nu/index.html
+                    
+                    IBM大型主机（Mainframe）技术简介之一——系统概述
+                                https://www.cnblogs.com/quanben/archive/2011/05/25/3128917.html
+                                
+                    大力神（http://www.hercules-390.org/）
+                    3270终端仿真器（http://x3270.bgp.nu/）
+                    下载Hercules的Z / OS仿真文件（搜索TPB或Google“ IBM Z OS仿真文件”将近16GB的数据。
+                    
+                    https://hercules-390.github.io/html/hercfaq.html
+                    
+                    Hercules Emulator安装和配置
+                              https://my.oschina.net/u/2245781/blog/1815270
+                              https://www.cnblogs.com/humphrycc/p/3849789.html#F5
+                              https://www.cnblogs.com/humphrycc/p/3849789.html#C1
+                              
+                    https://www.geekly.co.jp/
+                    
+                    https://www.fujitsu.com/jp/dx/
+                    
+                    Hercules Mainframe Emulator
+                                https://herculesmainframeemulator.weebly.com/index.html
+                                
+                    http://www.jaymoseley.com/hercules/compiling/how_to.htm
+                    
+                    
+                        
+                    
+                    
       
       
       
